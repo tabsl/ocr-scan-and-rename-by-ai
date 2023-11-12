@@ -1,4 +1,4 @@
-# Dateien mit OCR auslesen und Dateinamen anhand KI umbennen
+# Dateien mit OCR auslesen und Dateinamen anhand KI umbenennen
 
 Dieses Script ermöglicht das Auslesen (PDF/JPG/PNG) von Text mittels OCR. Dieser Text wird an eine lokale KI gesendet und aufbereitert. Danach wird (im besten Fall ;-)) ein sinnvoller Dateiname zurückgegeben. Abschließend wir die Datei umbennant und in den `done`-Order verschoben.
 
